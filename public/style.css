@@ -1,0 +1,39 @@
+/* Targets the whole page */
+* {
+    margin:0px;
+    padding:0px;
+    }
+    
+    body{
+    background-color: #FFEED0;
+    }
+    
+    
+    /* Targeting the container tag of this webpage */
+    body .container{
+    width:100%;
+    margin:0px auto;
+    background-color: rgba(255, 238, 208, 0.2);
+    /* background-image:
+    url(https://lh3.googleusercontent.com/proxy/Zi4S-gnOCYardTUWlfalx1wwybf6TVjMKoaWUFb94DxC--jTwlID0wNcvb2gDBuVrK5KL6US1bvUzdpMkq2l5x6ZbUnNFgJVX0XnEKm5quMVNb9SuQ=w3840-h2160-p-k-no-nd-mv);
+    background-position: right bottom;
+    background-repeat: no-repeat no-repeat;
+    background-size: cover; */
+    background-image:url(./img/cricket.jpg);
+    background-position: center center;
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+    }
+
+h1{
+    text-align: center;
+    text-shadow: 4px 3px #000000;
+    font-size:2.3em;
+    color:red;
+}
+
+p{
+    background-color: white;
+    opacity: .9;
+}
+        

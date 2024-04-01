@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "description": "Indian Cricketer" 
+    },
+
+    { 
+        "id": 2,
+        "name": "Steven Smith",
+        "description": "Australian Cricketer"
+     },
+
+    {
+        "id": 3,
+        "name": "Kane Williamson",
+        "description": "New Zealand Cricketer"
+     },
+
+    { 
+        "id": 4,
+        "name": "Joe Root",
+        "description": "England Cricketer"
+     },
+
+    { 
+        "id": 5,
+        "name": "Babar Azam",
+        "description": "Pakistani Cricketer"
+     },
+
+    { 
+        "id": 6,
+        "name": "Chris Gayle",
+        "description": "West Indian Cricketer"
+     }
+]
